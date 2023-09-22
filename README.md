@@ -36,7 +36,7 @@ The flood events that occurred in 2014 in the municipality of Porto Velho, capit
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions provide a working copy of the project for development and testing purposes. See Development in: [GEE Platform Development](https://code.earthengine.google.com/ad5d5806bef01e3b783a30a155e7f839), [GEE Application](https://ee-cesarmoraes.projects.earthengine. app/view/classificacao-inundacoes -porto-velho-ro-2014-sliding-map). These are the project implementation notes.
+These instructions provide a working copy of the project for development and testing purposes. See Development in: [GEE Platform Development](https://code.earthengine.google.com/ad5d5806bef01e3b783a30a155e7f839), [GEE Application](https://ee-cesarmoraes.projects.earthengine.app/view/classificacao-inundacoes-porto-velho-ro-2014-mapa-deslizante). These are the project implementation notes.
 
 ## Prerequisites <a name = "prerequisites"></a>
 

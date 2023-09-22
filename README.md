@@ -75,7 +75,7 @@ print('Consumer Accuracy:', consumerAccuracy);
 
 ## 🎈 Usage <a name="usage"></a>
 
-The GEE App can be used to identify flooded areas, unlike image classification before the event.
+The GEE App can be used to identify flood areas, with remote sensing images classified before and after the event.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
